@@ -5,3 +5,6 @@ Another function called "list_user()", list all the users currently saved in the
 
 The file is Command line based Unix file, which hepls to know the different users, list them and delete a user from the file.
 
+The program is displayed as this in the command line: 
+<img width="472" height="137" alt="image" src="https://github.com/user-attachments/assets/65665c96-4602-479b-a878-7155db9a0a80" />
+
